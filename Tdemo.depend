@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1713839013 source:d:\code\tdemo\main.cpp
+	<iostream>
+	<graphics.h>
+	<Windows.h>
+
+1713835696 source:d:\code\tdemo\demo1.cpp
+	<graphics.h>
+	<Windows.h>
+
+1713837437 source:d:\code\tdemo\demopic.cpp
+	<graphics.h>
+	<Windows.h>
+
+1713860912 source:d:\code\tdemo\hackmenu.cpp
+	<graphics.h>
+	<Windows.h>
+
+1713860774 source:d:\code\tdemo\¼«ÀÖ¾»ÍÁ.cpp
+	<graphics.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1713864125 source:d:\code\tdemo\proerdate.cpp
+	<graphics.h>
+	<Windows.h>
+
+1714008953 source:d:\code\tdemo\floatprint.cpp
+	<iostream>
+
+1714025367 source:d:\code\tdemo\cinabout.cpp
+	<iostream>
+
+1714013945 source:d:\code\tdemo\hexox.cpp
+	<iostream>
+
+1714025397 source:d:\code\tdemo\simplecircle.cpp
+	<iostream>
+
+1714528409 source:d:\code\tdemo\jilejingtu.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<MMSystem.h>
+
